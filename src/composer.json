@@ -1,6 +1,7 @@
 {
     "name": "root/html",
     "require": {
-        "vlucas/phpdotenv": "^5.3"
+        "vlucas/phpdotenv": "^5.3",
+        "twbs/bootstrap": "4.5.0"
     }
 }
